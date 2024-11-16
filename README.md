@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HeitorSAraujo
-- 👀 I’m interested in Data Analysis Mechanics Projects.
-- 🌱 I’m currently learning DAX Advanced, data visualization techniques, statitics distribuitions and 3D modeling.
-- 💞️ I’m looking to collaborate on data anlysis projects.
+- 👋 Olá, sou Heitor Araujo
+- 👀 Estou interessado em Business Intelegence, Data Analysis projetos mecânicos.
+- 🌱 Atualmente estou estudando DAX avançado, técnicas de visualização de dados, distribuição estatísticas e modelagem 3D.
+- 💞️ Gosto de colaborar projetos de análises de dados e projetos mecânicos.
 - 📫 How to reach me email heitorsantosaraujo@hotmail.com
 
 <!---
